@@ -92,7 +92,7 @@
 }
 
 body {
-  background-image: url('path/bg2.jng'); /* Ganti dengan path gambar Anda */
+  background-image: url('bg2.jng'); /* Ganti dengan path gambar Anda */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
